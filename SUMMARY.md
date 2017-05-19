@@ -6,12 +6,12 @@
 * [Case Study in Sensation](case-study-in-sensation.md)
 * [Perception](perception.md)
 * [Application: Active Reading](application-active-reading.md)
-* Cognitive Maps
-* Application: Hierarchies, Inheritance, Family Resemblance
-* Chunking, Connectedness, Gestalt
-* Global Inhibition
-* Clarity and Confusion
-* Boredom and Curiosity
-* Problem Solving
-* Application: Starting a Difficult Task
+* [Cognitive Maps](cognitive-maps.md)
+* [Application: Hierarchies, Inheritance, Family Resemblance](application-hierarchies-inheritance-family-resemblance.md)
+* [Chunking, Connectedness, Gestalt](chunking-connectedness-gestalt.md)
+* [Global Inhibition](global-inhibition.md)
+* [Clarity and Confusion](clarity-and-confusion.md)
+* [Boredom and Curiosity](boredom-and-curiosity.md)
+* [Problem Solving](problem-solving.md)
+* [Application: Starting a Difficult Task](application-starting-a-difficult-task.md)
 
