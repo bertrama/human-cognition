@@ -1,3 +1,5 @@
+# Chunking, Connectedness, Gestalt
+
 ## Orientation
 
 ## Content

@@ -1,3 +1,5 @@
+# Clarity and Confusion
+
 ## Orientation
 
 ## Content
