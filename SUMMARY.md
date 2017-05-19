@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Human Cognition](README.md)
 * [Brain Cells](brain-cells.md)
 * [Neural Behavior](neural-behavior.md)
 * [Case Study in Sensation](case-study-in-sensation.md)
