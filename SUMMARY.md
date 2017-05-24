@@ -14,4 +14,5 @@
 * [Boredom and Curiosity](boredom-and-curiosity.md)
 * [Problem Solving](problem-solving.md)
 * [Application: Starting a Difficult Task](application-starting-a-difficult-task.md)
+* [The Consequences of Expertise](the-consequences-of-expertise.md)
 
