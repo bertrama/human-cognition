@@ -1,4 +1,4 @@
-# Global Inhibition
+# 3.1 Global Inhibition
 
 ## Orientation
 

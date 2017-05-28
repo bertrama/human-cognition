@@ -1,4 +1,4 @@
-# Clarity and Confusion
+# 3.2 Clarity and Confusion
 
 ## Orientation
 

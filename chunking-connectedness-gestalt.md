@@ -1,4 +1,4 @@
-# Chunking, Connectedness, Gestalt
+# 2.3 Chunking, Connectedness, Gestalt
 
 ## Orientation
 

@@ -1,4 +1,4 @@
-# Boredom and Curiosity
+# 3.3 Boredom and Curiosity
 
 ## Orientation
 

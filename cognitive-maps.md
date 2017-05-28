@@ -1,4 +1,4 @@
-# Cognitive Maps
+# 2.2 Cognitive Maps
 
 ## Orientation
 
