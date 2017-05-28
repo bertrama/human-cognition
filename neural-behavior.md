@@ -1,6 +1,8 @@
-# 1.2 Neural Behavior
+# 1.2 Neural Interaction
 
 ## Orientation
+
+The most important feature of 
 
 # Vocabulary
 

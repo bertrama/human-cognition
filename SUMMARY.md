@@ -3,7 +3,7 @@
 * [0 Introduction](README.md)
 * [1 Neuroanatomy](part-1-neuroanatomy.md)
 * [1.1 Brain Cells](brain-cells.md)
-* [1.2 Neural Behavior](neural-behavior.md)
+* [1.2 Neural Interaction](neural-behavior.md)
 * [1.3 Case Study: Sensation](case-study-in-sensation.md)
 * [1.4 Application: Understanding the Brain](14-application-understanding-the-brain.md)
 * [2 Learning](part-2-learning.md)
