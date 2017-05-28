@@ -8,6 +8,7 @@
 * Action Potential
 * Potentiation
 * Depression
+* Refractory period
 
 ## Content
 
