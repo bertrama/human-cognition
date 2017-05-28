@@ -16,6 +16,7 @@
 * [3.2 Clarity and Confusion](clarity-and-confusion.md)
 * [3.3 Boredom and Curiosity](boredom-and-curiosity.md)
 * [3.4 Application: Starting a Difficult Task](application-starting-a-difficult-task.md)
-* 4 Teaching
+* [4 Teaching](4-teaching.md)
 * [4.1 The Consequences of Expertise](the-consequences-of-expertise.md)
+* [5 Design](5-design.md)
 

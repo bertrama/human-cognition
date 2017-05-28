@@ -4,6 +4,11 @@
 
 ### Vocabulary
 
+* EEG
+* MRI
+* Single Neuron
+* TMS
+
 ## Content
 
 ## Discussion

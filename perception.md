@@ -4,6 +4,9 @@
 
 ### Vocabulary
 
+* Hebbian learning
+* Spreading activation
+
 ## Content
 
 1. Different stimulus/same perception. [Tilting a 2d-image](https://24ways.org/2010/intro-to-css-3d-transforms/)
