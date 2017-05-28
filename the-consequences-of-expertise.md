@@ -2,6 +2,8 @@
 
 # Orientation
 
+### Vocabulary
+
 ## Content
 
 [The four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence).
@@ -14,5 +16,5 @@ Deriving the 4 stages of competence.
 
 Expanding to teaching and education.
 
-Experts who teach learn what works and what doesn't, and learn models of what beginners need in order to advance.  
+Experts who teach learn what works and what doesn't, and learn models of what beginners need in order to advance.
 

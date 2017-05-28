@@ -18,5 +18,4 @@
 * [3.4 Application: Starting a Difficult Task](application-starting-a-difficult-task.md)
 * 4 Teaching
 * [4.1 The Consequences of Expertise](the-consequences-of-expertise.md)
-* 1.4 Application: Understanding the Brain
 

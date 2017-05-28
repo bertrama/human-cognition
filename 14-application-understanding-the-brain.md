@@ -1,14 +1,12 @@
 # 1.4 Application: Understanding the Brain
 
-Orientation
+## Orientation
 
-Vocabulary
+### Vocabulary
 
-Content
+## Content
 
-Discussion
-
-
+## Discussion
 
 # 
 
