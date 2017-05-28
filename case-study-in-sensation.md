@@ -1,6 +1,14 @@
-# Case Study in Sensation
+# 1.3 Case Study in Sensation
 
 ## Orientation
+
+### Vocabulary
+
+* Retina
+* Rod
+* Cone
+* Optic Chiasm
+* Receptive Field
 
 ## Content
 

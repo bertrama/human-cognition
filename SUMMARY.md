@@ -4,7 +4,8 @@
 * [1 Neuroanatomy](part-1-neuroanatomy.md)
 * [1.1 Brain Cells](brain-cells.md)
 * [1.2 Neural Behavior](neural-behavior.md)
-* [1.3 Case Study in Sensation](case-study-in-sensation.md)
+* [1.3 Case Study: Sensation](case-study-in-sensation.md)
+* [1.4 Application: Understanding the Brain](14-application-understanding-the-brain.md)
 * [2 Learning](part-2-learning.md)
 * [2.1 Perception](perception.md)
 * [2.2 Cognitive Maps](cognitive-maps.md)
@@ -17,5 +18,5 @@
 * [3.4 Application: Starting a Difficult Task](application-starting-a-difficult-task.md)
 * 4 Teaching
 * [4.1 The Consequences of Expertise](the-consequences-of-expertise.md)
-* [5 Design](design.md)
+* 1.4 Application: Understanding the Brain
 

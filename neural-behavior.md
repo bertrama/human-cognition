@@ -1,6 +1,13 @@
-# Neural Behavior
+# 1.2 Neural Behavior
 
 ## Orientation
+
+# Vocabulary
+
+* Neurotransmitter
+* Action Potential
+* Potentiation
+* Depression
 
 ## Content
 
