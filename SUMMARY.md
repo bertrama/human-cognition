@@ -19,4 +19,5 @@
 * [4 Teaching](4-teaching.md)
 * [4.1 The Consequences of Expertise](the-consequences-of-expertise.md)
 * [5 Design](5-design.md)
+* [5.1 Where They're At](51-where-theyre-at.md)
 
