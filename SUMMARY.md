@@ -18,6 +18,12 @@
 * [3.4 Application: Starting a Difficult Task](application-starting-a-difficult-task.md)
 * [4 Teaching](4-teaching.md)
 * [4.1 The Consequences of Expertise](the-consequences-of-expertise.md)
+* 4.2 title tbd
+* 4.3 title tbd
+* 4.4 Application title tbd
 * [5 Design](5-design.md)
 * [5.1 Where They're At](51-where-theyre-at.md)
+* 5.2 title tbd
+* 5.3 title tbd
+* 5.4 application tbd
 
