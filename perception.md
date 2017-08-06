@@ -6,6 +6,7 @@
 
 * Hebbian learning
 * Spreading activation
+* Cell assembly
 
 ## Content
 
@@ -15,6 +16,7 @@
 4. Cell assemblies form reverberatory loops.
 5. Loudest voice in the room.
 6. Spreading activation model.
+7. Chapter from one of Hebb's books.
 
 ## Discussion
 

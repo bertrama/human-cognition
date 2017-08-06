@@ -2,6 +2,8 @@
 
 ## Orientation
 
+One method of conscious active attention is global inhibition.
+
 ### Vocabulary
 
 ## Content

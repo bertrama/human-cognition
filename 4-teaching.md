@@ -2,7 +2,7 @@
 
 Objectives:
 
-* Where they're at.
+* knowing "where they're at".
 * Many repeated presentations.
 * Take frequent breaks.
 * Introduce, wait, present, wait, 
